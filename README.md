@@ -1,2 +1,2 @@
 # odev
--timu-cv.netlify.app
+###### https://timu-cv.netlify.app
